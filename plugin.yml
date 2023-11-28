@@ -1,0 +1,13 @@
+name: ChatPlus
+author: Valres
+version: 1.0.0
+api: [5.0.0]
+main: ChatPlus\Main
+
+permissions:
+  lock.command:
+    default: op
+    description: "Allow you to lock the chat."
+  chat.bypass:
+    default: op
+    description: "Allow you to bypass the locked chat or bad words."

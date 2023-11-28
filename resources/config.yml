@@ -1,0 +1,26 @@
+# Discord: https://discord.gg/4bAceda9q3
+# Github : https://github.com/ValresMC
+# By Valres
+#
+#
+cooldown: 5
+cooldown-message: "§c You are in cooldown for {time} seconds."
+
+lock-message: "§aThe chat has just been locked by {user}!"
+unlock-message: "§aThe chat has just been unlocked by {user}!"
+
+lock-success: "§aThe chat has been successfully locked!"
+unlock-success: "§aThe chat has been successfully unlocked!"
+
+lock-chat: "§cYou can’t speak, the chat is locked!"
+
+bad-words-message: "§cThe word {word} is forbidden!"
+bad-words:
+  - "tg"
+  - "veski"
+  - "con"
+
+time: 300
+messages:
+  - "§9>>§r Welcome to my server !"
+  - "§9>>§r Have a nice moment !"
