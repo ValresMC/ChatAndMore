@@ -3,23 +3,24 @@
 # By Valres
 #
 #
+# Cooldown chat :
 cooldown: 5
 cooldown-message: "§c You are in cooldown for {time} seconds."
-
+# Lock and unlock messages to all player :
 lock-message: "§aThe chat has just been locked by {user}!"
 unlock-message: "§aThe chat has just been unlocked by {user}!"
-
+# Lock and unlock messages for sender :
 lock-success: "§aThe chat has been successfully locked!"
 unlock-success: "§aThe chat has been successfully unlocked!"
-
+# Lock message :
 lock-chat: "§cYou can’t speak, the chat is locked!"
-
+# Bad words :
 bad-words-message: "§cThe word {word} is forbidden!"
 bad-words:
   - "tg"
   - "veski"
   - "con"
-
+# Reccurents messages :
 time: 300
 messages:
   - "§9>>§r Welcome to my server !"
