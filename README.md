@@ -14,6 +14,12 @@
 
 (FRA) : Dans le dossier `plugin_data/ChatAndMore/config.yml` , indiquez les valeurs souhaitez.  
 
+## Permissions :
+
+(ENG) : `chat.bypass`, allow you to bypass restrictions.
+
+(FRA) : `chat.bypass`, permet de passer au dessus des restrictions.
+
 ## My discord :
 
 You can join <a href="https://discord.gg/NkZu7DNKEn">here</a> !
