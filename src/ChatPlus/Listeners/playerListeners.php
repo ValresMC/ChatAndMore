@@ -9,7 +9,7 @@ use pocketmine\event\player\PlayerChatEvent;
 
 class playerListeners implements Listener
 {
-    public function __construct(public Main $plugin, readonly Utils $utils) {}
+    public function __construct(public Main $plugin) {}
 
     public function onChat(PlayerChatEvent $event): void
     {
