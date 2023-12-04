@@ -1,4 +1,4 @@
-# LockChat
+# ChatAndMore
 
 <img 
   src = "logo_chatandmore.png"
