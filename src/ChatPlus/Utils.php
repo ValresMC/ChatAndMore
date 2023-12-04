@@ -5,7 +5,6 @@ namespace ChatPlus;
 class Utils
 {
     public static bool $lock = false;
-
     public static array $cooldown = [];
     public static array $badword = [];
     public static array $messages = [];
